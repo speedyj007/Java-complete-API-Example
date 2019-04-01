@@ -1,0 +1,22 @@
+{
+  "time": {
+    "updated": "Mar 31, 2019 18:12:00 UTC",
+    "updatedISO": "2019-03-31T18:12:00+00:00",
+    "updateduk": "Mar 31, 2019 at 19:12 BST"
+  },
+  "disclaimer": "This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org",
+  "bpi": {
+    "USD": {
+      "code": "USD",
+      "rate": "4,116.2250",
+      "description": "United States Dollar",
+      "rate_float": 4116.225
+    },
+    "INR": {
+      "code": "INR",
+      "rate": "285,830.6739",
+      "description": "Indian Rupee",
+      "rate_float": 285830.6739
+    }
+  }
+}
